@@ -103,3 +103,10 @@ footer {
     border-radius: 0 0 10px 10px;
 }
 
+p::first-letter {
+    color: gold;   
+}
+
+h4::first-letter {
+    color: gold;   
+}
